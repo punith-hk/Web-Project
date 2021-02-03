@@ -9,6 +9,7 @@
 
     Thanks to all
     example merge conflict
+    in git rebase
 
 # TECHNOLOGY COLOPHON
 
