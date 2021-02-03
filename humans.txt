@@ -10,6 +10,7 @@
     Thanks to all
     example merge conflict
     in git rebase
+    complicate in devops branch
 
 # TECHNOLOGY COLOPHON
 
