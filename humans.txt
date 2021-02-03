@@ -8,8 +8,7 @@
 # THANKS
 
     Thanks to all
-    example
-    master branch
+    example merge conflict
 
 # TECHNOLOGY COLOPHON
 
