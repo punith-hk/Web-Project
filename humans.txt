@@ -10,7 +10,10 @@
     Thanks to all
     example merge conflict
     in git rebase
+    stashing example
     complicate in devops branch
+
+    making complicate
 
 # TECHNOLOGY COLOPHON
 
